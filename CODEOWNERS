@@ -6,4 +6,16 @@
 
 # review when someone opens a pull request
 
-*       @yiwen-h @ai-mindset @StatsRhian
+*       @yiwen-h @ai-mindset
+
+# Shiny application
+/.github/workflows/app-requirements.yaml @StatsRhian
+/_brand.yml                              @StatsRhian
+/app.py                                  @StatsRhian
+/requirements.txt                        @StatsRhian
+/tests/e2e/                              @StatsRhian
+
+# Shared files containing Shiny documentation or dependency configuration
+/README.md      @yiwen-h @ai-mindset @StatsRhian
+/pyproject.toml @yiwen-h @ai-mindset @StatsRhian
+/uv.lock        @yiwen-h @ai-mindset @StatsRhian
